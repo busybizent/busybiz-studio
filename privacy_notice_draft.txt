@@ -1,0 +1,31 @@
+BUSYBIZ STUDIO — WEBSITE PRIVACY NOTICE (DRAFT)
+Not a published privacy policy. Adapt to actual data practices and review against UK GDPR and PECR before publishing.
+
+Who we are
+BusyBiz Studio. Insert the operator's legal name and postal contact details. Contact email: m71215534@gmail.com.
+
+What we collect
+If you email us or use the website's enquiry button, we may receive your name, salon name, email address, message and other details you choose to share. The current starter website opens your email application; it does not itself submit enquiries to a website database.
+
+Why we use it
+To respond to enquiries, provide quotations, deliver services and manage client communications. Specify the lawful basis for each purpose after reviewing actual operations (for example, steps requested before a contract or legitimate interests, where appropriate).
+
+Who receives information
+Your email provider and any service providers actually used to operate the business. List them and any relevant international transfers once selected. Do not claim tools are in use unless they are.
+
+How long we keep information
+Set and publish specific retention periods or clear criteria for enquiries, client records and invoices based on actual practice and applicable obligations.
+
+Your rights
+Subject to applicable law, individuals may have rights to access, correct, erase or restrict use of their personal data, object to certain processing, and complain to the UK Information Commissioner's Office (ico.org.uk). Contact us using the email above to make a request.
+
+Cookies and analytics
+The starter site does not intentionally install analytics or advertising trackers. Reassess this statement after hosting, embedding forms, or adding third-party services; host-level technical processing may still occur.
+
+Security
+We take reasonable steps to protect information, including account access controls. Specify actual controls accurately rather than claiming unimplemented measures.
+
+Changes
+Last reviewed: [date]. Update when the website or business practices change.
+
+PUBLISHING CHECKLIST: confirm operator identity, lawful bases, processors, transfers, retention, cookies, and any data-processing contracts; add a visible website link to the final notice.
